@@ -1,0 +1,6 @@
+inurl:webdav
+intitle:"Index of" "webdav"
+inurl:"webdav" "index of"
+filetype:propfind
+"Microsoft-IIS" inurl:webdav
+"Apache" inurl:webdav
